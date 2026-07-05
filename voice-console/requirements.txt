@@ -1,0 +1,7 @@
+customtkinter
+keyboard
+python-socketio[client]
+sounddevice
+numpy
+openai
+faster-whisper

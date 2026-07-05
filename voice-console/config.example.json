@@ -1,0 +1,10 @@
+{
+  "stt_engine": "openai",
+  "openai_api_key": "",
+  "whisper_model": "base",
+  "hotkey_agent_a": "alt",
+  "hotkey_agent_b": "ctrl",
+  "mindserver_url": "http://localhost:8080",
+  "language": "ja",
+  "ptt_mock": true
+}

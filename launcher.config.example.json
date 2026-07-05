@@ -1,0 +1,7 @@
+{
+  "minecraftServerDir": "C:\\path\\to\\your\\minecraft-server",
+  "javaCommand": "java",
+  "minecraftPort": 25565,
+  "waitForMinecraftSeconds": 90,
+  "autoStartMinecraft": true
+}

@@ -1,0 +1,7 @@
+{
+  "server_host": "127.0.0.1",
+  "server_port": 8081,
+  "hotkey_agent_a": "alt",
+  "hotkey_agent_b": "ctrl",
+  "language": "ja"
+}
